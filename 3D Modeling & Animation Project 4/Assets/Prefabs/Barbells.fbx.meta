@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 77e79881eec7df94e86dba1978fa96e5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barbell
+    100002: //RootNode
+    100004: curved_Barbell
+    100006: curved_weight
+    100008: large_lbs_plates
+    100010: pCylinder4
+    100012: pCylinder5
+    100014: pCylinder6
+    100016: pCylinder7
+    100018: pCylinder8
+    100020: pCylinder9
+    100022: pPipe10
+    100024: pPipe11
+    100026: pPipe12
+    100028: pPipe13
+    100030: pPipe14
+    100032: pPipe15
+    100034: pPipe16
+    100036: pPipe17
+    100038: pPipe18
+    100040: pPipe7
+    100042: pPipe8
+    100044: pPipe9
+    100046: small_lbs_plates
+    400000: Barbell
+    400002: //RootNode
+    400004: curved_Barbell
+    400006: curved_weight
+    400008: large_lbs_plates
+    400010: pCylinder4
+    400012: pCylinder5
+    400014: pCylinder6
+    400016: pCylinder7
+    400018: pCylinder8
+    400020: pCylinder9
+    400022: pPipe10
+    400024: pPipe11
+    400026: pPipe12
+    400028: pPipe13
+    400030: pPipe14
+    400032: pPipe15
+    400034: pPipe16
+    400036: pPipe17
+    400038: pPipe18
+    400040: pPipe7
+    400042: pPipe8
+    400044: pPipe9
+    400046: small_lbs_plates
+    2100000: lambert1
+    2300000: pCylinder4
+    2300002: pCylinder5
+    2300004: pCylinder6
+    2300006: pCylinder7
+    2300008: pCylinder8
+    2300010: pCylinder9
+    2300012: pPipe10
+    2300014: pPipe11
+    2300016: pPipe12
+    2300018: pPipe13
+    2300020: pPipe14
+    2300022: pPipe15
+    2300024: pPipe16
+    2300026: pPipe17
+    2300028: pPipe18
+    2300030: pPipe7
+    2300032: pPipe8
+    2300034: pPipe9
+    3300000: pCylinder4
+    3300002: pCylinder5
+    3300004: pCylinder6
+    3300006: pCylinder7
+    3300008: pCylinder8
+    3300010: pCylinder9
+    3300012: pPipe10
+    3300014: pPipe11
+    3300016: pPipe12
+    3300018: pPipe13
+    3300020: pPipe14
+    3300022: pPipe15
+    3300024: pPipe16
+    3300026: pPipe17
+    3300028: pPipe18
+    3300030: pPipe7
+    3300032: pPipe8
+    3300034: pPipe9
+    4300000: pCylinder4
+    4300002: pPipe9
+    4300004: pCylinder5
+    4300006: pCylinder6
+    4300008: pPipe12
+    4300010: pPipe13
+    4300012: pCylinder7
+    4300014: pCylinder8
+    4300016: pPipe16
+    4300018: pCylinder9
+    4300020: pPipe8
+    4300022: pPipe11
+    4300024: pPipe14
+    4300026: pPipe17
+    4300028: pPipe7
+    4300030: pPipe10
+    4300032: pPipe15
+    4300034: pPipe18
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
