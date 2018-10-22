@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 60a8594407e97403bb9cf691d45c17c4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pCube10
+    100004: pCube11
+    100006: pCube13
+    100008: pCube15
+    100010: pCube16
+    100012: pCube17
+    100014: pCube19
+    100016: pCube19 1
+    100018: pCube20
+    100020: pCube20 1
+    100022: pCube3
+    100024: pCube5
+    100026: pCylinder2
+    100028: pCylinder3
+    100030: pCylinder4
+    100032: pCylinder4 1
+    100034: pCylinder4 10
+    100036: pCylinder4 11
+    100038: pCylinder4 2
+    100040: pCylinder4 3
+    100042: pCylinder4 4
+    100044: pCylinder4 5
+    100046: pCylinder4 6
+    100048: pCylinder4 7
+    100050: pCylinder4 8
+    100052: pCylinder4 9
+    100054: pCylinder5
+    100056: pCylinder5 1
+    100058: pegLeg
+    100060: pegLeg1
+    100062: polySurface2
+    100064: polySurface3
+    100066: pSphere1
+    100068: pSphere1 1
+    100070: pSphere1 10
+    100072: pSphere1 11
+    100074: pSphere1 2
+    100076: pSphere1 3
+    100078: pSphere1 4
+    100080: pSphere1 5
+    100082: pSphere1 6
+    100084: pSphere1 7
+    100086: pSphere1 8
+    100088: pSphere1 9
+    100090: screw
+    100092: screw1
+    100094: screw10
+    100096: screw11
+    100098: screw2
+    100100: screw3
+    100102: screw4
+    100104: screw5
+    100106: screw6
+    100108: screw7
+    100110: screw8
+    100112: screw9
+    100114: screws
+    100116: transform2
+    100118: transform3
+    100120: transform4
+    100122: //RootNode
+    100124: treadmill_Arm
+    100126: treadmill_Arm1
+    100128: treadmill_frame
+    100130: treadmill_pole
+    100132: treadmill_screen
+    100134: treadmill_track
+    400000: pCube1
+    400002: pCube10
+    400004: pCube11
+    400006: pCube13
+    400008: pCube15
+    400010: pCube16
+    400012: pCube17
+    400014: pCube19
+    400016: pCube19 1
+    400018: pCube20
+    400020: pCube20 1
+    400022: pCube3
+    400024: pCube5
+    400026: pCylinder2
+    400028: pCylinder3
+    400030: pCylinder4
+    400032: pCylinder4 1
+    400034: pCylinder4 10
+    400036: pCylinder4 11
+    400038: pCylinder4 2
+    400040: pCylinder4 3
+    400042: pCylinder4 4
+    400044: pCylinder4 5
+    400046: pCylinder4 6
+    400048: pCylinder4 7
+    400050: pCylinder4 8
+    400052: pCylinder4 9
+    400054: pCylinder5
+    400056: pCylinder5 1
+    400058: pegLeg
+    400060: pegLeg1
+    400062: polySurface2
+    400064: polySurface3
+    400066: pSphere1
+    400068: pSphere1 1
+    400070: pSphere1 10
+    400072: pSphere1 11
+    400074: pSphere1 2
+    400076: pSphere1 3
+    400078: pSphere1 4
+    400080: pSphere1 5
+    400082: pSphere1 6
+    400084: pSphere1 7
+    400086: pSphere1 8
+    400088: pSphere1 9
+    400090: screw
+    400092: screw1
+    400094: screw10
+    400096: screw11
+    400098: screw2
+    400100: screw3
+    400102: screw4
+    400104: screw5
+    400106: screw6
+    400108: screw7
+    400110: screw8
+    400112: screw9
+    400114: screws
+    400116: transform2
+    400118: transform3
+    400120: transform4
+    400122: //RootNode
+    400124: treadmill_Arm
+    400126: treadmill_Arm1
+    400128: treadmill_frame
+    400130: treadmill_pole
+    400132: treadmill_screen
+    400134: treadmill_track
+    2100000: DARK_grey
+    2100002: lambert1
+    2100004: lambert3
+    2300000: pCube1
+    2300002: pCube11
+    2300004: pCube13
+    2300006: pCube15
+    2300008: pCube16
+    2300010: pCube17
+    2300012: pCube19
+    2300014: pCube19 1
+    2300016: pCube20
+    2300018: pCube20 1
+    2300020: pCylinder2
+    2300022: pCylinder3
+    2300024: pCylinder4
+    2300026: pCylinder4 1
+    2300028: pCylinder4 10
+    2300030: pCylinder4 11
+    2300032: pCylinder4 2
+    2300034: pCylinder4 3
+    2300036: pCylinder4 4
+    2300038: pCylinder4 5
+    2300040: pCylinder4 6
+    2300042: pCylinder4 7
+    2300044: pCylinder4 8
+    2300046: pCylinder4 9
+    2300048: pCylinder5
+    2300050: pCylinder5 1
+    2300052: polySurface2
+    2300054: polySurface3
+    2300056: pSphere1
+    2300058: pSphere1 1
+    2300060: pSphere1 10
+    2300062: pSphere1 11
+    2300064: pSphere1 2
+    2300066: pSphere1 3
+    2300068: pSphere1 4
+    2300070: pSphere1 5
+    2300072: pSphere1 6
+    2300074: pSphere1 7
+    2300076: pSphere1 8
+    2300078: pSphere1 9
+    2300080: treadmill_pole
+    2300082: treadmill_screen
+    3300000: pCube1
+    3300002: pCube11
+    3300004: pCube13
+    3300006: pCube15
+    3300008: pCube16
+    3300010: pCube17
+    3300012: pCube19
+    3300014: pCube19 1
+    3300016: pCube20
+    3300018: pCube20 1
+    3300020: pCylinder2
+    3300022: pCylinder3
+    3300024: pCylinder4
+    3300026: pCylinder4 1
+    3300028: pCylinder4 10
+    3300030: pCylinder4 11
+    3300032: pCylinder4 2
+    3300034: pCylinder4 3
+    3300036: pCylinder4 4
+    3300038: pCylinder4 5
+    3300040: pCylinder4 6
+    3300042: pCylinder4 7
+    3300044: pCylinder4 8
+    3300046: pCylinder4 9
+    3300048: pCylinder5
+    3300050: pCylinder5 1
+    3300052: polySurface2
+    3300054: polySurface3
+    3300056: pSphere1
+    3300058: pSphere1 1
+    3300060: pSphere1 10
+    3300062: pSphere1 11
+    3300064: pSphere1 2
+    3300066: pSphere1 3
+    3300068: pSphere1 4
+    3300070: pSphere1 5
+    3300072: pSphere1 6
+    3300074: pSphere1 7
+    3300076: pSphere1 8
+    3300078: pSphere1 9
+    3300080: treadmill_pole
+    3300082: treadmill_screen
+    4300000: treadmill_screen
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: pCube19
+    4300008: pCylinder5
+    4300010: pCube20
+    4300012: pCylinder4
+    4300014: pSphere1
+    4300016: pCylinder4
+    4300018: pSphere1
+    4300020: pCylinder4
+    4300022: pSphere1
+    4300024: pCylinder4
+    4300026: pSphere1
+    4300028: pCylinder4
+    4300030: pSphere1
+    4300032: pCylinder4
+    4300034: pSphere1
+    4300036: pCylinder4
+    4300038: pSphere1
+    4300040: pCylinder4
+    4300042: pSphere1
+    4300044: pCylinder4
+    4300046: pSphere1
+    4300048: pCylinder4
+    4300050: pSphere1
+    4300052: pCylinder4
+    4300054: pSphere1
+    4300056: pCylinder4
+    4300058: pSphere1
+    4300060: pCube16
+    4300062: pCube13
+    4300064: pCube11
+    4300066: pCube1
+    4300068: treadmill_pole
+    4300070: pCube17
+    4300072: pCylinder2
+    4300074: pCylinder3
+    4300076: pCube15
+    4300078: pCube19
+    4300080: pCylinder5
+    4300082: pCube20
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
